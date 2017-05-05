@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         WebView wvContent = (WebView) findViewById(R.id.wvContent);
-        wvContent.loadUrl("www.baidu.com");
+        wvContent.loadUrl("http://elemefe.github.io/mint-ui/#/");
     }
 }
